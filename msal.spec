@@ -4,7 +4,7 @@
 #
 Name     : msal
 Version  : 1.2.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/fd/28/3035c32c12b9963c31bd7b12e93b0ff04542362644fea81104fe56dd9283/msal-1.2.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/fd/28/3035c32c12b9963c31bd7b12e93b0ff04542362644fea81104fe56dd9283/msal-1.2.0.tar.gz
 Summary  : The Microsoft Authentication Library (MSAL) for Python library enables your app to access the Microsoft Cloud by supporting authentication of users with Microsoft Azure Active Directory accounts (AAD) and Microsoft Accounts (MSA) using industry standard OAuth2 and OpenID Connect.
